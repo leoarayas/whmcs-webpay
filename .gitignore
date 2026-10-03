@@ -5,3 +5,4 @@ phpstan.phar
 .phpstan.cache
 vendor/
 node_modules/
+.protection-body.json
