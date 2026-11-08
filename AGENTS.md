@@ -4,6 +4,7 @@
 > El contenido principal es el bloque de workflow Clevers al final.
 > Enriquecelo con reglas específicas del proyecto arriba del bloque si necesitás.
 
+
 <!-- BEGIN CLEVERS WORKFLOW v1 -->
 # Flujo de trabajo Clevers — todos los proyectos R:\
 
